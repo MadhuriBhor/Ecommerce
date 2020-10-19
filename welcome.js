@@ -7,5 +7,5 @@ app.listen(9000,function(){
 });
 
 app.get('/welcome',function(req,res){
-	res.send("<h2>Welcome to WebApp</h2>");
+	res.send("<h2>Welcome to Github from linux</h2>");
 });
